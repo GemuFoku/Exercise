@@ -1,4 +1,4 @@
-package session3.exercise;
+package exercise;
 
 public class SalesReport {
 	// 訂單編號
