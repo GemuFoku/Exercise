@@ -1,4 +1,4 @@
-package session3.exercise;
+package exercise;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
