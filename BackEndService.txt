@@ -1,0 +1,37 @@
+Goods [goodsID=1, goodsName=coke_original, goodsPrice=100, goodsQuantity=5, goodsImageName=coke_original.jpg, status=1]
+Goods [goodsID=2, goodsName=fanta_grape, goodsPrice=7, goodsQuantity=7, goodsImageName=fanta_grape.jpg, status=1]
+Goods [goodsID=3, goodsName=spring_original, goodsPrice=20, goodsQuantity=5, goodsImageName=spring_original.jpg, status=1]
+Goods [goodsID=4, goodsName=coke_zero, goodsPrice=10, goodsQuantity=11, goodsImageName=coke_zero.jpg, status=1]
+Goods [goodsID=5, goodsName=pepsi_original, goodsPrice=25, goodsQuantity=14, goodsImageName=pepsi_original.jpg, status=1]
+Goods [goodsID=6, goodsName=fanta_orange, goodsPrice=25, goodsQuantity=13, goodsImageName=fanta_orange.jpg, status=1]
+Goods [goodsID=7, goodsName=Cascara Macchiato, goodsPrice=140, goodsQuantity=20, goodsImageName=20190124150636383.jpg, status=1]
+Goods [goodsID=8, goodsName=Iced Cascara, goodsPrice=140, goodsQuantity=20, goodsImageName=20190124151236425.jpg, status=1]
+Goods [goodsID=9, goodsName=Dark Caramel Latte, goodsPrice=140, goodsQuantity=20, goodsImageName=20190314152120770.jpg, status=1]
+Goods [goodsID=10, goodsName=White Chocolate Mocha, goodsPrice=135, goodsQuantity=20, goodsImageName=20190315112127432.jpg, status=1]
+Goods [goodsID=11, goodsName=Flat White, goodsPrice=135, goodsQuantity=20, goodsImageName=20180910173353352.jpg, status=1]
+Goods [goodsID=12, goodsName=Espresso Choice Extra Shot Latte, goodsPrice=145, goodsQuantity=20, goodsImageName=20170717104522150.jpg, status=1]
+Goods [goodsID=13, goodsName=Cappuccino, goodsPrice=120, goodsQuantity=20, goodsImageName=20170627162058676.jpg, status=1]
+Goods [goodsID=14, goodsName=Caffe Latte, goodsPrice=110, goodsQuantity=20, goodsImageName=2013081316151831.jpg, status=1]
+Goods [goodsID=15, goodsName=Iced Caffe Latte, goodsPrice=120, goodsQuantity=20, goodsImageName=20130813162740315.jpg, status=1]
+Goods [goodsID=16, goodsName=Caramel Macchiato, goodsPrice=140, goodsQuantity=20, goodsImageName=20170627171958121.jpg, status=1]
+Goods [goodsID=17, goodsName=Iced Caramel Macchiato, goodsPrice=140, goodsQuantity=20, goodsImageName=20170627175758131.jpg, status=1]
+Goods [goodsID=18, goodsName=Caffe Mocha, goodsPrice=135, goodsQuantity=20, goodsImageName=20130813161442705.jpg, status=1]
+Goods [goodsID=19, goodsName=Iced Caffe Mocha, goodsPrice=135, goodsQuantity=18, goodsImageName=20130813163137244.jpg, status=1]
+Goods [goodsID=20, goodsName=Caffe Americano, goodsPrice=80, goodsQuantity=18, goodsImageName=20130813161023652.jpg, status=1]
+Goods [goodsID=21, goodsName=Iced Caffe Americano, goodsPrice=95, goodsQuantity=20, goodsImageName=20130813163246257.jpg, status=1]
+Goods [goodsID=22, goodsName=Espresso, goodsPrice=80, goodsQuantity=20, goodsImageName=20130813160909561.jpg, status=1]
+Goods [goodsID=23, goodsName=Triple Mocha Frappuccino, goodsPrice=145, goodsQuantity=20, goodsImageName=20190314152226279.jpg, status=1]
+Goods [goodsID=24, goodsName=Dark Caramel Coffee Frappuccino, goodsPrice=145, goodsQuantity=20, goodsImageName=20190314152210263.jpg, status=1]
+Goods [goodsID=25, goodsName=Coffee Frappuccino Blended Beverage, goodsPrice=105, goodsQuantity=20, goodsImageName=20130813155657355.jpg, status=1]
+Goods [goodsID=26, goodsName=Caramel Frappuccino Blended Beverage, goodsPrice=130, goodsQuantity=20, goodsImageName=20130813155636918.jpg, status=1]
+Goods [goodsID=27, goodsName=Caramel Java Chip Frappuccino Blended Beverage, goodsPrice=145, goodsQuantity=20, goodsImageName=20140304171733401.jpg, status=1]
+Goods [goodsID=28, goodsName=Java Chip Frappuccino Blended Beverage, goodsPrice=145, goodsQuantity=20, goodsImageName=20130813154445805.jpg, status=1]
+----------------------------------------
+商品新增上架成功！ 商品編號：30
+----------------------------------------
+商品更新成功！ 商品編號：30
+----------------------------------------
+商品刪除成功！ 商品編號：30
+----------------------------------------
+SalesReport [orderID=1, customerName=Tiffany, orderDate=2022/04/29 21:33:42, goodsName=Iced Caffe Mocha, goodsBuyPrice=135, buyQuantity=2, buyAmount=270]
+SalesReport [orderID=2, customerName=Tiffany, orderDate=2022/04/29 21:33:42, goodsName=Caffe Americano, goodsBuyPrice=80, buyQuantity=2, buyAmount=160]
